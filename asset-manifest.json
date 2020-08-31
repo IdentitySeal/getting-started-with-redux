@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/getting-started-with-redux/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/getting-started-with-redux/static/js/main.b53bbf8d.chunk.js",
+    "main.js.map": "/getting-started-with-redux/static/js/main.b53bbf8d.chunk.js.map",
+    "runtime-main.js": "/getting-started-with-redux/static/js/runtime-main.d2f41ac2.js",
+    "runtime-main.js.map": "/getting-started-with-redux/static/js/runtime-main.d2f41ac2.js.map",
+    "static/js/2.e4df55bb.chunk.js": "/getting-started-with-redux/static/js/2.e4df55bb.chunk.js",
+    "static/js/2.e4df55bb.chunk.js.map": "/getting-started-with-redux/static/js/2.e4df55bb.chunk.js.map",
+    "index.html": "/getting-started-with-redux/index.html",
+    "precache-manifest.ee3758883c49b5c2e6c10759fc89f540.js": "/getting-started-with-redux/precache-manifest.ee3758883c49b5c2e6c10759fc89f540.js",
+    "service-worker.js": "/getting-started-with-redux/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/getting-started-with-redux/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e4df55bb.chunk.js.LICENSE.txt": "/getting-started-with-redux/static/js/2.e4df55bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2f41ac2.js",
+    "static/js/2.e4df55bb.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b53bbf8d.chunk.js"
+  ]
+}
